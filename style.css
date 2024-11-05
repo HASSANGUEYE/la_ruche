@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=WindSong:wght@400;500&display=swap');
+
+
+
+.BGyellow{
+    background-color: yellow;}
+*{
+margin:0;
+padding:0;
+font-family: "Inter", sans-serif;
+}
+a{
+.flex{
+display:flex;
+flex-wrap:block;
+}
+}
+
+header{.navheader
+
+
+}
+.between{
+    justify-content:space-between ;
+}
+alignCenter
+.panier{
+    color: yellow;
+    font-size: 
+}
+.container{
+    background-color: brown
+    max: width 1000pxpx;
+    width: 100%;
+
+}
+/*hero*/
+
+.hero {
+height: 100vh;
+}
+
+.hero h2 {
+    fontsize:130px;
+    font-family: "WindSong", cursive;
+    font-weight: 32px;
+    }

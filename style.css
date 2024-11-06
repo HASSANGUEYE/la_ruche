@@ -41,7 +41,31 @@ height: 100vh;
 .hero h2 {
     font-size:130px;
     font-family: "WindSong", cursive;
-    font-weight: 32px;
-    }
-
-.flex{display-flex}
+    font-weight: 30px}
+.flex{
+    display:flex;
+    flex-wrap: wrap;
+}
+.w45{
+    width: 45%;
+}
+.w33{
+    width: 33%;
+}
+.spacebetween{
+    justify-content: space-between;
+}
+.bgyellow{
+    background-color: yellow;
+}
+.btn{
+    background-color: #F66909;
+    border-radius: 4px;
+    padding: 10px;
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    width: fit-content;
+}
+ section,footer{padding: top 42px;
+padding-bottom: 42px;}
